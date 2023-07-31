@@ -8,7 +8,9 @@ Skills: React.js, React Native, JavaScript, TypeScript.
 - Full-time
 
 Let's collaborate and build something amazing! 💻💼
+
 Email: oluwatobi9990@gmail.com
+
 Portfolio: https://tobis-portfolio-website.netlify.app/
 
 
