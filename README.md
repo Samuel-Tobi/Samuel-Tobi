@@ -1,8 +1,15 @@
-- 👋 Hi, I’m Tobi
-- 👀 I’m interested in everything software engineering (frontend & backend)
-- 🌱 I’m currently learning everything to be a full stack developer 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me :
+👋 Frontend Developer available for hire! 🚀
+Skills: React.js, React Native, JavaScript, TypeScript.
+
+🌟 Seeking job opportunities:
+
+- Gig
+- Contract
+- Full-time
+
+Let's collaborate and build something amazing! 💻💼
+Email: oluwatobi9990@gmail.com
+Portfolio: https://tobis-portfolio-website.netlify.app/
 
 
 
