@@ -5,6 +5,7 @@ Skills: React.js, React Native, JavaScript, TypeScript.
 
 - Gigs
 - Contracts
+- Full time
 
 Let's collaborate and build something amazing! 💻💼
 
