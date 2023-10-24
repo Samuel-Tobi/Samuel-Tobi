@@ -3,8 +3,8 @@ Skills: React.js, React Native, JavaScript, TypeScript.
 
 🌟 Seeking job opportunities:
 
-- Gig
-- Contract
+- Gigs
+- Contracts
 
 Let's collaborate and build something amazing! 💻💼
 
