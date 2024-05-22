@@ -1,4 +1,4 @@
-👋 Frontend Developer available for hire! 🚀
+👋 Frontend Developer 🚀
 Skills: React.js, React Native, JavaScript, TypeScript.
 
 🌟 Seeking job opportunities:
