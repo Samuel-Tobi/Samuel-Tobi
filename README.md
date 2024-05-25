@@ -21,7 +21,7 @@ I'm passionate about building web and mobile applications that make a difference
 
 ## 🎉 Fun Facts
 
-- ⚽ I love football (soccer) so much - If I could code while playing, I'd never leave the field! 😉 My favourite team is (https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1200px-Chelsea_FC.svg.png)
+- ⚽ I love football (soccer) so much - If I could code while playing, I'd never leave the field! 😉 
 - 🌟 I find solace in my own company - **#noncomformist.**
 - 🧩 One step at a time, I navigate life's journey with patience and purpose.
 
