@@ -17,7 +17,9 @@ I'm passionate about building web and mobile applications that make a difference
 
 ## 📊 GitHub Stats
 
-![Samuel-Tobi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samuel-Tobi&show_icons=true&theme=radical)
+__________________________________
+
+<!---![Samuel-Tobi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samuel-Tobi&show_icons=true&theme=radical) --->
 
 ## 🎉 Fun Facts
 
