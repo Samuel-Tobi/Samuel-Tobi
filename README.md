@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Samuel-Tobi!
+# 👋 Hi there, I'm Tobi!
 
 👨‍💻 **Software Developer** 🚀
 
@@ -13,6 +13,21 @@ I'm passionate about building web and mobile applications that make a difference
 
 - 📧 **Email**: [oluwatobi9990@gmail.com](mailto:oluwatobi9990@gmail.com)
 - 🌐 **Portfolio**: [tobikay.tech](https://tobikay.tech/)
+- 💼 **LinkedIn**: [linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/your-linkedin-username)
+
+## 📊 GitHub Stats
+
+![Samuel-Tobi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samuel-Tobi&show_icons=true&theme=radical)
+
+## 🎉 Fun Facts
+
+- ⚽ I love football (soccer) so much - If I could code while playing, I'd never leave the field! 😉 My favourite team is (https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1200px-Chelsea_FC.svg.png)
+- 🌟 I find solace in my own company - **#noncomformist.**
+- 🧩 One step at a time, I navigate life's journey with patience and purpose.
+
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Samuel-Tobi)
+
 <!---
 ## 🚀 Featured Projects
 
