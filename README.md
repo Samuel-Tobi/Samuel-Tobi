@@ -13,7 +13,7 @@ I'm passionate about building web and mobile applications that make a difference
 
 - 📧 **Email**: [oluwatobi9990@gmail.com](mailto:oluwatobi9990@gmail.com)
 - 🌐 **Portfolio**: [tobikay.tech](https://tobikay.tech/)
-- 💼 **LinkedIn**: [linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/your-linkedin-username)
+- 💼 **LinkedIn**: [Oluwatobi Olukayode](https://www.linkedin.com/in/oluwatobiolukayode/)
 
 ## 📊 GitHub Stats
 
