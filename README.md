@@ -23,7 +23,7 @@ __________________________________
 
 ## 🎉 Fun Facts
 
-- ⚽ I love football (soccer) so much - If I could code while playing, I'd never leave the field! 😉 
+- ⚽ I love football (soccer) 
 - 🌟 I find solace in my own company - **#noncomformist.**
 - 🧩 One step at a time, I navigate life's journey with patience and purpose.
 
